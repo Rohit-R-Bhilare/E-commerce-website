@@ -1,4 +1,3 @@
-Description:
 Welcome to our E-commerce Website! This platform is designed to offer users a seamless shopping experience with a wide range of products from various categories. Users can easily browse, search, and purchase products with secure payment options.
 
 Features:
